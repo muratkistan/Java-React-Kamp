@@ -7,4 +7,5 @@ public class InstructorManager  extends UserManager{
 		System.out.println(course.getCourseName() +" adli kurs olusturuldu \n");
 		return course;
 	}
+	
 }
