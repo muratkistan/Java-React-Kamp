@@ -11,7 +11,7 @@ public class StudentManager  extends UserManager{
 	
 	public void kursIadeEt(Student student ,Course course) {
 		System.out.println(course.getCourseName() +" adli kurs iade edildi");
-		System.out.println("Geri odeme islemi 2 is gunu icinde gerceklesecek\n");
+		System.out.println("Geri odeme islemi 2 is gunu icinde tarafınıza gerceklesecek\n");
 	}
 
 }
